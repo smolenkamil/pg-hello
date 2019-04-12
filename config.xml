@@ -4,10 +4,10 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>First app</name>
-    <description>My first mobile app</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <name>Business Card</name>
+    <description>Business Card - Kamil Smoleń</description>
+    <author href="http://mypersonalwebsite.com" email="niepodam@gmail.com">
+		Kamil Smoleń
 	</author>
 	<platform name="android" />
 	
